@@ -2,3 +2,5 @@ map_of_values = {'name': 'Andy', 'surname': 'Bieber', 'marital_status': 'married
 for key, value in map_of_values.items():
     print(key + ' ' + value); 
 print("Hello world ")
+
+print("hello")
